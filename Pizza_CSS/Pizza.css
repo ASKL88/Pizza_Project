@@ -1,0 +1,76 @@
+body {
+    background-color: deepskyblue;
+}
+
+h1 {
+    font-family: sans-serif; 
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+h3 {
+    font-family: Arial, Helvetica, sans-serif; 
+    color: #1b2c18;
+}
+ 
+div {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+    color: #000000;
+}
+
+#menuBG {
+    width: 400px;
+    height: 470px;
+    margin: 10px auto;
+}
+
+#frmMenu {
+    width: 600px;
+    height: 200px;
+}
+
+#totalPrice {
+    width: 200px;
+    height: 190px;
+    margin: 1000 auto;
+    float: right;
+}
+
+.left {
+    width: 200px;
+    height: 200px;
+    float: left;
+}
+
+.center {
+    width: 200px;
+    height: 200px;
+    float: left;
+}
+
+.right {
+    width: 200px;
+    height: 200px;
+    float: left;
+}
+
+#showText {
+    width: 200px;
+    height: 190px;
+    margin: 0px auto;
+    float: right;
+}
+#cart {
+    top:0;margin:0px auto;
+    width: 100px;
+    height: 40px;
+}
+
+#btnOrder {
+    margin: 10px 0px 0px 100px;
+    width: 100px;
+    height: 40px;
+    display: block;
+    margin: 25px auto;
+}
+
