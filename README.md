@@ -51,6 +51,7 @@ Using HTML, the structure of the menu is formed. The menu is built with a column
                 </div>
                 
 This HTML creates the sub-total cart: 
+
                 <div id ="cart">
                     <div id="showText"></div>
                     <div id="totalPrice"></div>
